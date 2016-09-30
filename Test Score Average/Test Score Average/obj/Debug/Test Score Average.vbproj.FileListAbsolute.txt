@@ -1,0 +1,10 @@
+C:\Users\nn137422\Documents\Visual Basic\Test Score Average\Test Score Average\bin\Debug\Test Score Average.exe.config
+C:\Users\nn137422\Documents\Visual Basic\Test Score Average\Test Score Average\bin\Debug\Test Score Average.exe
+C:\Users\nn137422\Documents\Visual Basic\Test Score Average\Test Score Average\bin\Debug\Test Score Average.pdb
+C:\Users\nn137422\Documents\Visual Basic\Test Score Average\Test Score Average\bin\Debug\Test Score Average.xml
+C:\Users\nn137422\Documents\Visual Basic\Test Score Average\Test Score Average\obj\Debug\Test_Score_Average.Form1.resources
+C:\Users\nn137422\Documents\Visual Basic\Test Score Average\Test Score Average\obj\Debug\Test_Score_Average.Resources.resources
+C:\Users\nn137422\Documents\Visual Basic\Test Score Average\Test Score Average\obj\Debug\Test Score Average.vbproj.GenerateResource.Cache
+C:\Users\nn137422\Documents\Visual Basic\Test Score Average\Test Score Average\obj\Debug\Test Score Average.exe
+C:\Users\nn137422\Documents\Visual Basic\Test Score Average\Test Score Average\obj\Debug\Test Score Average.xml
+C:\Users\nn137422\Documents\Visual Basic\Test Score Average\Test Score Average\obj\Debug\Test Score Average.pdb
